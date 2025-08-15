@@ -41,6 +41,6 @@ Supporting data-driven decision-making in banking customer relationship manageme
 
 6. Project Files
 
- – Power BI dashboard file
+https://github.com/DavaDeekshitha/-Bank-Customer-Churn-Analysis-Dashboard/blob/main/bank%20project.pbix – Power BI dashboard file
 
  – Raw dataset used for analys
